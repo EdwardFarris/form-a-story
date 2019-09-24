@@ -17,7 +17,7 @@ _____
 
 
 ### **Demo Screenshots**
-#####Form a Story
+##### Form a Story
 * Fill out the provided form information!
 ![Image of Home Page](./assets/images/main.png)
 
